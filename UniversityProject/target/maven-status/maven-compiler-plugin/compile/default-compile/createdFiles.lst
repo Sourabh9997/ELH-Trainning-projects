@@ -1,0 +1,9 @@
+com\service\StudentService.class
+com\dao\StudentDaoImpl.class
+com\model\Department.class
+com\dao\StudentDao.class
+com\model\Student.class
+com\model\University.class
+com\service\StudentServiceImpl.class
+com\main\UniversityMainApp.class
+com\model\College.class
